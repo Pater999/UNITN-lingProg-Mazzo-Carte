@@ -16,11 +16,11 @@ JavaFx exercise - Realizzazione di un "Gioco di carte" assegnato in laboratorio 
 
 **Aspetto schermata iniziale**
 <p style="text-align:center">
-    <img src="https://github.com/Pater999/UNITN-lingProg-Mazzo-Carte/blob/v1.0/resources/img/ProgrammaInziale.png" alt="ProgrammaIniziale.png" />
+    <img src="https://github.com/Pater999/UNITN-lingProg-Mazzo-Carte/blob/v1.0/resources/img/ProgrammaInziale.PNG" alt="ProgrammaIniziale.png" />
 </p>
 
 **Aspetto schermata vittoria**
 <p style="text-align:center">
-    <img src="https://github.com/Pater999/UNITN-lingProg-Mazzo-Carte/blob/v1.0/resources/img/EsempioVittoria.png" alt="EsempioVittoria.png" />
+    <img src="https://github.com/Pater999/UNITN-lingProg-Mazzo-Carte/blob/v1.0/resources/img/EsempioVittoria.PNG" alt="EsempioVittoria.png" />
 </p>
 
