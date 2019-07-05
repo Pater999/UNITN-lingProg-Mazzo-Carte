@@ -11,3 +11,16 @@ JavaFx exercise - Realizzazione di un "Gioco di carte" assegnato in laboratorio 
 * Rendere N sceglible dall’utente, e validarne la risposta.	
 * Dare,	nella finestra	finale,	una rappresentazione grafica semplificata della carta vincente.	
 * Dopo la eventuale vittoria, scegliere a caso una carta dal mazzo. Se questa ha lo stesso valore della vincente (indipendentemente da seme), la vittoria vale doppio. Dare comunicazione all’utente dell’esito di tale operazione.	
+
+### Screenshot:
+
+**Aspetto schermata iniziale**
+<p style="text-align:center">
+    <img src="https://github.com/Pater999/UNITN-lingProg-Mazzo-Carte/blob/v1.0/resources/img/ProgrammaInziale.png" alt="ProgrammaIniziale.png" />
+</p>
+
+**Aspetto schermata vittoria**
+<p style="text-align:center">
+    <img src="https://github.com/Pater999/UNITN-lingProg-Mazzo-Carte/blob/v1.0/resources/img/EsempioVittoria.png" alt="EsempioVittoria.png" />
+</p>
+
